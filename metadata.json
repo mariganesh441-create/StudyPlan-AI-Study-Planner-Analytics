@@ -1,0 +1,6 @@
+{
+  "name": "StudyPlan AI – Study Planner & Analytics",
+  "description": "Personalized study planner, syllabus tracker, exam countdown, and student progress analytics system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
